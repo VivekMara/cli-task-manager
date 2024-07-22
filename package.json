@@ -1,0 +1,31 @@
+{
+  "name": "cli-task-manager",
+  "version": "1.0.0",
+  "description": "task manager with a cli",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VivekMara/cli-task-manager.git"
+  },
+  "keywords": [
+    "task",
+    "manager",
+    "node"
+  ],
+  "author": "darthman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VivekMara/cli-task-manager/issues"
+  },
+  "homepage": "https://github.com/VivekMara/cli-task-manager#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "sqlite": "^5.1.1"
+  }
+}
