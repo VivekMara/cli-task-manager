@@ -26,6 +26,8 @@
     "nodemon": "^3.1.4"
   },
   "dependencies": {
+    "better-sqlite3": "^11.1.2",
+    "commander": "^12.1.0",
     "sqlite": "^5.1.1",
     "sqlite3": "^5.1.7"
   }
